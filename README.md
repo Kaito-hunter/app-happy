@@ -16,6 +16,3 @@ Uma plataforma para facilitar o encontro de orfanatos por pessoas que querem vis
 ## 📜 License
 
 O projeto está sobre a licença [MIT](./LICENSE)
-
-[![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/Kaito-hunter/Happy)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/40a46e57-bd16-4940-ad25-cfbac5bd41bb/deploy-status)](https://app-happy.netlify.app/)
