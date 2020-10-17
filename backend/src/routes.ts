@@ -9,5 +9,6 @@ const upload = multer(uploadConfig);
 router.get('/orphanages', OrphanagesController.index);
 router.get('/orphanage/:id', OrphanagesController.show);
 router.post('/orphanages', upload.array('images'), OrphanagesController.create);
+router.get('/user', OrphanagesController.index);
 
 export default router;
