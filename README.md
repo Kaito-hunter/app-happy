@@ -17,4 +17,4 @@ Uma plataforma para facilitar o encontro de orfanatos por pessoas que querem vis
 
 O projeto está sobre a licença [MIT](./LICENSE)
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/a5bc7566-be3f-4358-9ca0-abb47eee9bd6/deploy-status)](https://app.netlify.com/sites/app-happy/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/a5bc7566-be3f-4358-9ca0-abb47eee9bd6/deploy-status)](https://app-happy.netlify.app/)
